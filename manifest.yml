@@ -1,0 +1,7 @@
+---
+applications:
+  - name: node-echo
+    path: .
+    memory: 128m
+    routes:
+      - route: echo.widgets.fin.cian.ru
